@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ai-heritage-guide",
+  "private_key_id": "103de1adeb32cb2b1325c5917c6be99726eac4de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCVdOZ2v7gJz4cl\nZqma6mZcOJ5mO2HIaAk90c+ldM1fE7YpzaQ0z1qXgvCWrcXR1S/BbLsWERKzkLZ2\n/mRfe9GbjbDy54H2TerFNlvnlMC7wNMf+7FS1iUY6NnwKmixDVEM+5paPZPYg7XP\nyJMzoQBzgmT0+7k2HH19LOkIzyEzAXcC6XSEiogmCmPhTQ1IpxRmXRqDl3VeKd/I\nDjq8ikPyWvMIA97yTVG/vqYwZvaV0+i9Vvk+J71okY/8ejm6kv+Esbpzv013m9xF\neCl8ZcY0KZMnjMY4ODgTnSjXcw7Uy3PMyjbwx++3tQjscfNnAUl3xrehpCvA14EB\nCbzgralnAgMBAAECggEAEac+NZaNqXL+1pcav3aiYpA5fX/UG/TV6pxmt3dlbq6I\nXMWyeJ5pZ+4KdvHNpOxWeLVcH84idF1KgCGqP3EDoCkLVpWrzykC6wpxrpfub/7l\nsShsmIk81oVigLCxrwAQq8ToRXJyjSd5iTJ62KVSxVIIlLtK9C5HUErGt8indjuu\nu8d939MOjdlua3obZphqVDaDgGgHSWxLUorpB1F+AfLpi/12hevdH2qEAf/8Im3N\n43UCSb9QmlZMqIcY4bGzxgnCizXjwS6CGue/l2THx8TJyCk6UEItOtr1AkHYK1X0\n0QkUJPQgsXrgXilV7TQ8vZB6gdj33CVJNFdx6trX0QKBgQDSO8zGCC7WZbghBPnb\nmHhbhPCA56hZexpuWilN46GZmK0pl6KDgcvWSgrc1Jq5UaLkSeF5dZ1riqAO9sOG\n3Q4izE6snEwOsiPzZPyZEHgdU0B0Lw+qmMLzj9kYEJbp4zZ2+JIEya/FAcV2jm0Q\n4GbpVI/A/bfTyeBU3aGYst/63wKBgQC1/gjzKb/8MkiHjSthjSI5Vt0EQ8AGxd9u\n0nRVcTcQsH3zRs9mPanTt1OR6kQ3Gf7OPVNg773/ZnZZV96JCa6dbn1K/YALcX5I\nZ4PZNJa+hYz3yJog1Pu3gBa/JryUrvk4QdoriZpYOpizPP3FkjSV+7AhyWjdRM8c\nvVzBpsiqeQKBgCzhlVLFlnIw3wE1lb26rB8ln051piwMKtVaLC0zpmErBfS2KXyX\nrhN+VRlVzf44HmVMHHWYlVXLD2aCabWV5ZmqMjWJXHdasnAYpBBtQqdICZ+EGH0c\nBaqHkBoiGIWv+wWlBU8+W2bcfPJVb5VFwtKXOeVChQcStvCHLCN0NHrTAoGARM9O\n/Pl9IFK2v6GtlE2zcfCY0kL3eNgZ2aHy4FdVFZdVl8TfJ+4KpwT6sQHdVuQaRkpD\nmzQqJ0XLW45wkmm5vsaG0vK0Fh+MOr4AyQAsOs7t9MXBGMbOgZwJfa6cwK7DhfTI\nE4wMcm19TM+zt57HCSpHdw7a+kZI9LnYN1PjLSkCgYEAu4Jq9lQnKgdz1Ia/aSld\nqpJCimOHxFXa30maL+4/89hA5OAv/FVBvDeDHW89vc+VTd5SltRzSVsDedZgvbPp\nevfdjvICjwwwsCOB9YpLhA1mpZGHWyZUUJhF0az1SpOFb0eNOCPZR5sgl5tWKQmB\nGHVqISiPQpUl5WfhA/qFxHY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "heritage-guide@ai-heritage-guide.iam.gserviceaccount.com",
+  "client_id": "117892682554132465257",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/heritage-guide%40ai-heritage-guide.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
